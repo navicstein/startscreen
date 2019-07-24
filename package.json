@@ -1,0 +1,29 @@
+{
+  "bin": {
+    "startscreen": "startscreen.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "jimp": "^0.6.4",
+    "whelk": "^6.0.1"
+  },
+  "name": "startscreen",
+  "version": "0.0.1",
+  "main": "startscreen.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "Navicstein Rotciv",
+  "license": "MIT",
+  "description": "startscreen is a CLI tool that helps to generate multiple icon screens from one of your choosen icons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navicstein/startscreen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/navicstein/startscreen/issues"
+  },
+  "homepage": "https://github.com/navicstein/startscreen#readme"
+}

@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 const Jimp = require("jimp"),
   whelk = require("whelk");
 whelk({
